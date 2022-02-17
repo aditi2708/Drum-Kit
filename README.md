@@ -1,5 +1,4 @@
-# Drum-Kit
-A simple drum beat generator web application.
+
 <h1> <a href="https://aditi2708.github.io/Drum-Kit/"> 🥁 Drum Kit </a> </h1>
 <h2> This website is created by using:  </h2>
 <ul>
